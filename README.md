@@ -1,1 +1,1 @@
-# food-petrichenko-course
+# Food-petrichenko
